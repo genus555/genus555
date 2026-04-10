@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Donghee Lim! 👋
+* 📫I've been coding primarily in Go for a year.
+* 🌱I'm taking courses at [Boot.dev](www.Boot.dev).
+* 🔭I'm currently on the job hunt.
+* 😄To reach me, email me at `dongheelim555@gmail.com`
+
+
 
 <!--
 **genus555/genus555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
